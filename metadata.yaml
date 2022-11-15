@@ -1,0 +1,40 @@
+_repo: Era-uma-vez_69239
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Almeida, Júlia Lopes de
+    aliases:
+    - Lopes de Almeida, Júlia
+    - De Almeida, Júlia Lopes
+    - Almeida, Julia Lopes de
+    - Silveira Lopes de Almeida, Júlia Valentina da
+    birthdate: 1862
+    deathdate: 1934
+    gutenberg_agent_id: '54351'
+    url: http://www.gutenberg.org/2009/agents/54351
+    wikipedia:
+    - https://en.wikipedia.org/wiki/J%C3%BAlia_Lopes_de_Almeida
+    - https://pt.wikipedia.org/wiki/J%C3%BAlia_Lopes_de_Almeida
+description: ''
+gutenberg_issued: '2022-10-26'
+identifiers:
+  gutenberg: '69239'
+language: pt
+pgterms:marc904: https://archive.org/details/eraumavez00alme
+pgterms:marc905: 20221024061538almeida
+pgterms:marc906: '1917'
+pgterms:marc907: BR
+production_note: Laura Natal Rodrigues (Images generously made available by The Internet
+  Archive.)
+publication_note: 'Brazil: Jacintho Ribeiro dos Santos,1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcsh 'Princesses -- Juvenile fiction'
+- !lcc 'PQ'
+- !lcc 'PZ'
+- GITenberg
+title: Era uma vez...
+url: http://www.gutenberg.org/ebooks/69239
